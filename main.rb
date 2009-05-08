@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'sinatra'
 
-get '/index' do
+get '/*' do
   'Hello punks.'
 end
