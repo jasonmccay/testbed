@@ -1,2 +1,2 @@
 require 'main.rb'
-runs Sinatra::Application
+run Sinatra::Application
