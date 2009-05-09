@@ -1,2 +1,2 @@
-require 'main.rb'
+require 'toopaste.rb'
 run Sinatra::Application
